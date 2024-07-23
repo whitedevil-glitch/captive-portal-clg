@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Captive Portal Auto Login",
+  "description": "This extension allows the user to automatically login into the captive portal",
+  "version": "1.0",
+  "author": "Sai Shankar",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://172.16.0.1/",
+        "http://172.16.0.1/userportal/login.do",
+        "http://1.254.254.254/"
+      ],
+      "js": ["login.js"]
+    }
+  ]
+}
