@@ -4,7 +4,10 @@ extension for automatically logging in to the captive portal WiFi.
 ## Installation
 - Download the repository <a href="https://github.com/whitedevil-glitch/captive-portal-clg/archive/refs/heads/main.zip">here</a>
 - Extract it.
-
+- Open "login.js" with a text-editor (notepad or vscode)
+  - edit "username.value = 'your_username';" and replace "your_username" with username (used for login)
+  - edit "password.value = 'your_password';" and replace "your_password" with password (used for login)
+- Save it.
 - Chrome
   - Open Chrome.
   - Go to chrome://extensions/ in the address bar.
