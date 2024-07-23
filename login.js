@@ -10,13 +10,13 @@ setTimeout(() => {
   const username = document.createElement('input');
   username.type = 'hidden';
   username.name = 'username';
-  username.value = 'gosh23cs';
+  username.value = 'your_username';
   form.appendChild(username);
 
   const password = document.createElement('input');
   password.type = 'hidden';
   password.name = 'passwd';
-  password.value = 'ShredSamurai12';
+  password.value = 'your_password';
   form.appendChild(password);
 
   const type = document.createElement('input');
