@@ -2,7 +2,7 @@
 extension for automatically logging in to the captive portal WiFi.
 
 ## Installation
-- Download the repository <a href="#">here</a>
+- Download the repository <a href="https://github.com/whitedevil-glitch/captive-portal-clg/archive/refs/heads/main.zip">here</a>
 - Extract it.
 
 - Chrome
@@ -17,5 +17,5 @@ extension for automatically logging in to the captive portal WiFi.
   - Go to about:debugging in the address bar.
   - Click "This Firefox".
   - Click "Load Temporary Add-on".
-  - Select the extracted folder.
+  - Select the "firefox.zip", present inside the extracted folder.
   - Restart Firefox [optional]
