@@ -15,10 +15,10 @@ extension for automatically logging in to the captive portal WiFi.
   - Click on the "Load unpacked" button.
   - Select the extracted extension folder.
   - Restart Chrome [optional]
-- Firefox
+- Firefox (Temporary)
   - Open Firefox.
   - Go to about:debugging in the address bar.
   - Click "This Firefox".
   - Click "Load Temporary Add-on".
-  - Select the "firefox.zip", present inside the extracted folder.
+  - Select the "firefox.zip" (present inside the extracted folder.)
   - Restart Firefox [optional]
